@@ -1,6 +1,6 @@
 # Page_View_Time_Series_Visualizer_Using_Python
 
-### Use the data to complete the following tasks:
+## Project Tasks:
 
 * Use Pandas to import the data from "fcc-forum-pageviews.csv". Set the index to the date column.
   
